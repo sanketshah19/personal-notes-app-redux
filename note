@@ -1,0 +1,47 @@
+Three Field: 
+
+collection - array
+document - object
+field - property of object
+
+model is a constructor function
+
+to talking with database we can't use express
+
+MongoDB uses JS, POSTGRES uses SQL
+
+Express to MongoDB is also an asynchronous opertaion
+
+For SQL database we use Sequelize -- (But model is in JavaScript)
+
+Static method - model
+Instance method - Instances of Models are documents. 
+
+MVC - skinny 
+      fat 
+
+
+(request) --> index.js --> routes.js(/config) --> controllers(express) (/app/controllers) --> models(mongoose) --> DB
+
+in mordern JavaScript(React) we have no view --> React works as View
+
+
+MVC folder structure: 
+
+1. create app
+    /controllers
+        /notesController.js
+    /models
+        /note.js
+
+2. create config
+    /database.js
+    /routes.js     
+
+3. schema for a note & a model
+
+4. create a notes controller
+
+5. linked index to routes, routes to respective controllers, controllers to respective models
+
+starred data - old data
