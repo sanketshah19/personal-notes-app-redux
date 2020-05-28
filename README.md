@@ -6,7 +6,7 @@
 
 `YouTube Link` https://youtu.be/yEpfUTL8mpg
 
-Full-stack online note taking app built in ReactJS, ExpressJS and NodeJS. This app provide the user to manage notes in an efficient and interactive manner by keeping track of all the notes. User can easily create notes, add labels for each notes and can also copy the notes.
+Full-stack online note-taking app built in ReactJS, ExpressJS and NodeJS. This app provides the users to manage notes efficiently and interactively by keeping track of all the notes. Users can easily create notes, add labels for each note and can also copy the notes.
 
 This project uses the following technologies:
 
